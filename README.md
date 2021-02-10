@@ -6,5 +6,5 @@ Ogpay makes it easy for your customers to pay online.
 Please check the below documentation for detailed information on how to install our plugin in WordPress.<br/>
 http://pay-it.mobi/payitcheckout/Ogpay-woocommerce-online-documentation/
 
-# For Integration and payment channels setup please visit the below link or contact our Og Customer Care Service.
+For Integration and payment channels setup please visit the below link or contact our Og Customer Care Service.
 https://pay-it.mobi/payitcheckout/
